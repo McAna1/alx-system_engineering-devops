@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -at | tail -n 10 | sort -nr
